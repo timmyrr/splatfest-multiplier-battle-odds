@@ -36,7 +36,7 @@ public class SplatfestSimulation {
         int team_b_triggers = 0;
         double team_b_shells = 0;
 
-        // Match counts
+        // Match count variables
         int match_number = 1;
         int total_matches = 0;
 
